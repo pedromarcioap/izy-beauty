@@ -1,0 +1,8 @@
+{
+  "name": "Clínica Eterna - Santuário & Haute Botanique",
+  "description": "Santuário urbano de bem-estar, terapias integrativas e medicina botânica em Quiet Luxury com catálogo de rituais, quiz sensorial e painel CMS white-label.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
